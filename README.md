@@ -1,5 +1,3 @@
-# Task Manager
-
 Testovaci ukol pro AI, (15:38 se testem funkčnosti)
 
 prompt:
@@ -22,6 +20,8 @@ Jednoduchý dashboard na hlavní stránce:
 Vytvoř toto v reactu a použí next.js, v backendu použí python a FastAPI, jako databazi Sqlite stačí.
 ```
 
+
+# Task Manager
 Osobni spravce ukolu. Frontend v Next.js (React + TypeScript), backend v Python (FastAPI), data v SQLite.
 
 ## Struktura
